@@ -1,27 +1,21 @@
 🌦️ Weather Prediction Application
 
-A simple and user-friendly Weather Prediction application that allows users to check real-time weather conditions for any city. The project fetches live weather data and displays temperature, humidity, weather condition, and more.
+A responsive web-based application that allows users to retrieve real-time weather information for any city using live API integration. The system fetches and displays key weather metrics including temperature, humidity, wind speed, and weather conditions in a clean and intuitive interface.
 
-This project demonstrates the use of APIs, data handling, and frontend/backend integration.
+This project demonstrates practical implementation of REST API consumption, asynchronous data handling, frontend–backend integration, and dynamic UI updates.
 
-🚀 Features
+🚀 Key Features
 
-🌍 Search weather by city name
+🌍 Search weather details by city name
+🌡️ Displays temperature, humidity, wind speed, and weather condition
+☁️ Fetches real-time data from a public weather API
+⚡ Fast response using asynchronous API calls
+🎨 Clean and responsive user interface
+❌ Handles invalid city names with error messages
+📱 Mobile-friendly design
 
-🌡️ Displays temperature, humidity, and weather condition
+🛠️ Tech Stack
 
-☁️ Real-time weather updates
+HTML, CSS, JavaScript
 
-🎨 Simple and clean user interface
-
-⚡ Fast response using API integration
-
-🛠️ Technologies Used
-
-Frontend: HTML, CSS, JavaScript
-
-Backend (optional): Python / Flask (if you used it)
-
-API: OpenWeatherMap API
-
-Tools: Git, GitHub, VS Code
+Weather API (OpenWeather / similar)
